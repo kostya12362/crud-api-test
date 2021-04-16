@@ -9,5 +9,5 @@
 ```
 
 
-[heroku](https://django-crud-ostapenko.herokuapp.com/api/)
+[heroku](https://django-crud-ostapenko.herokuapp.com/api/) <br/>
 [Postman Doc](https://documenter.getpostman.com/view/12567904/TzJrDKbf)
