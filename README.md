@@ -10,3 +10,4 @@
 
 
 [heroku](https://django-crud-ostapenko.herokuapp.com/api/)
+[Postman Doc](https://documenter.getpostman.com/view/12567904/TzJrDKbf)
