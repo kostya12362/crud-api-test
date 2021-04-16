@@ -1,7 +1,7 @@
 # crud-api-test
 1
 
-```bash
+```linux
   docker-compose -f docker-compose.yml up -d --build
   docker-compose -f docker-compose.yml exec web python manage.py crontab add
   docker-compose -f docker-compose.yml exec web python manage.py migrate
@@ -9,4 +9,4 @@
 ```
 
 
-[heroku]: https://django-crud-ostapenko.herokuapp.com/api/
+[heroku](https://django-crud-ostapenko.herokuapp.com/api/)
